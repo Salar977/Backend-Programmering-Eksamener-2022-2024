@@ -1,0 +1,45 @@
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.exe
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.runtimeconfig.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\refint\Oppgave1.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.genruntimeconfig.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\Gokstad Akademiet\22-23\Emner\Emne 4 Objektorientert programmering\Eksamen\Løsningsforslag\src\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\ref\Oppgave1.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.exe
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.deps.json
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.runtimeconfig.json
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\bin\Debug\net7.0\Oppgave1.pdb
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.csproj.AssemblyReference.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.AssemblyInfoInputs.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.AssemblyInfo.cs
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.csproj.CoreCompileInputs.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\refint\Oppgave1.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.pdb
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\Oppgave1.genruntimeconfig.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave1\obj\Debug\net7.0\ref\Oppgave1.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\bin\Debug\net7.0\Oppgave1.exe
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\bin\Debug\net7.0\Oppgave1.deps.json
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\bin\Debug\net7.0\Oppgave1.runtimeconfig.json
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\bin\Debug\net7.0\Oppgave1.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\bin\Debug\net7.0\Oppgave1.pdb
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.csproj.AssemblyReference.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.AssemblyInfoInputs.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.AssemblyInfo.cs
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.csproj.CoreCompileInputs.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\refint\Oppgave1.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.pdb
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\Oppgave1.genruntimeconfig.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave1\obj\Debug\net7.0\ref\Oppgave1.dll

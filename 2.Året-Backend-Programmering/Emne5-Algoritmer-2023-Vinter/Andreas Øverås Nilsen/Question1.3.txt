@@ -1,0 +1,18 @@
+QuickSort Bad Pivot:
+In QuickSort the pivot selection decides the impact of it's performance. 
+Choosing a bad pivot can lead to the segments/partitions of the array being sorted to be unbalanced, leading to poor time complexity.
+
+Unbalance:
+If the chosen pivot over and over ends up as the smallest or largest element, the segments created would be uneven. 
+For example if the pivot is selected in the first or last element in an already sorted or almost sorted array it would cause the sides to be uneven.
+The reason for the uneven segments being bad is the reduced efficiancy after the algorythm divides the array into smaller segments.
+When the bad pivot leads to the unbalanced segments the QuickSort time complexity degrades to O(n^2). 
+This means if the worst case scenario happens the algorythm has to go though nearly the entire array for each partitioning step, leading to heavy loss in effectiveness.
+Therefore the QuickSort may lose it's advantage of dividing the array into smaller segments and sorting them independently fast.
+
+How to avoid:
+A method for avoiding having a bad pivot is by choosing a median of the first, middle and the last element as the pivot point, this will then reduce the chance of ending up with uneven segments.
+There is also a method by randomly selecting the pivot point that minimizes the possibility of consistently choosing the smallest or largest element in the array, making the algorythm less likely to repeat the same actions and leads to more balanced segmentations.
+
+All in all, the bad pivot selection can heavy inpact the effectivness of the QuickSort's performance by causing unbalanced segments, leading to poor time complexity and decreades efficiency.
+Methods by focusing the on the pivot point helps reduce these problems and keep the QuickSort's effectivness on datasets.

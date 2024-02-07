@@ -1,0 +1,22 @@
+Insertion Sort:
+Insertion Sort is a simple sorting algorithm that builds the final sorted array one element at a time. 
+It starts by checking the second element and compares it with the elemets before it, this is called itirating up the array, building the sorted list behind it.
+For each position it checks the value against the previous elements in the array, if the element is lager it leave the element in place and moves to the next one, but if it's smaller it checks and finds the correct place within the sorted list. Therefore it has to shift all the values up to make space and insert the element to it's position.
+This now repeats until the entire array/list of elemets are sorted.
+This sort is straightforward, efficient for small datasets, and efficient when elements are nearly sorted.
+
+Heap Sort:
+Heap Sort uses a binary heap, a data structure that looks like a tree, to sort the elements. First it transforms the array into a heap where the largest (for max-heap) or smallest (for min-heap) element is at the root of the tree.
+ It repeatedly extracts this root element, placing it at the end of the sorted portion of the array.
+ After each extraction, it rearranges the remaining elements to maintain the structure of the tree.
+ This process continues until all elements are sorted. 
+Using heaps allows it to repeatedly extract the maximum or minimum element and rearrange the remaining elements in a way that gradually builds a sorted array.
+ It's more effective for larger datasets due to its time complexity of O(n log n), but it requires additional space for heap creation.
+
+Quick Sort:
+QuickSort operates by dividing an array into smaller subarrays based on a chosen pivot element in the array.
+ It starts by selects a pivot, rearranges the elements so that values less than the pivot are placed to its left and values greater than the pivot are placed to its right.
+ This divides the array into segments: elements smaller than the pivot, and the pivot itself, and elements greater than the pivot.
+ QuickSort then repeatedly sorts the smaller subarrays on each side of the pivot until the entire array is sorted.
+ Each repitition applies the same process of choosing a pivot, dividing, and sorting subarrays, eventually assembling a fully sorted array.
+ The effectiveness of QuickSort is in its ability to sort in-place and handle large datasets fast, O(n log n), but its worst-case time complexity is O(n^2) if the chosen pivots leads to unbalanced segments.

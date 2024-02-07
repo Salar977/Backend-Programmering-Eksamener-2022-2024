@@ -1,0 +1,12 @@
+Dijksta's Algorithm:
+Dijksta's algorithm makes it way across the graph by greedily selecting the node with the shortest known distance from the starting node.
+It evaluates the nodes based on only the combined gathered information/cost from the start node to reach them, spreading out equally in all directions.
+Therefor it guarantees the shortest path when all the paths has been checked or singled out.
+
+A* Pathfinding:
+This method also makes it way across the graph, but uses a combination of the cost to reach a node, from the starting node, and a function that estimates the remaining cost to reach the end node.
+It does this by evalutating based on the sum of the cost from the start and the estimated cost to reach the end, going towards the nodes that appear to be closer to the end.
+
+Relationship:
+In relationship these two methods both seek the shortest path towards the end node, they share similatities but differ in their appraches to finding the shortest path.
+ Where A* pathfinding enhances Dijkstra's approach by adding a "smart educated guess" estimation, enabling more informed and efficient pathfinding by checking both actual cost and estimations to the goal, where the dijkstra's approach is linear by checking every path and it's cost towards the end node.

@@ -1,0 +1,5 @@
+Question 2.1 The shortest path from Y -> X applying the dijkstra's method on Figure 1: Weighted Graph is : 
+
+				Y -> G -> H -> T -> N -> B -> A -> X
+						= 26 
+				(total of the value from the noded passed)

@@ -1,0 +1,30 @@
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.csproj.AssemblyReference.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.AssemblyInfoInputs.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.AssemblyInfo.cs
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.csproj.CoreCompileInputs.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\bin\Debug\net7.0\Oppgave5.exe
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\bin\Debug\net7.0\Oppgave5.deps.json
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\bin\Debug\net7.0\Oppgave5.runtimeconfig.json
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\bin\Debug\net7.0\Oppgave5.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\bin\Debug\net7.0\Oppgave5.pdb
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\refint\Oppgave5.dll
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.pdb
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\Oppgave5.genruntimeconfig.cache
+C:\ga\DotNet\Eksamen\Løsningsforslag OOP 2023\Oppgave5\obj\Debug\net7.0\ref\Oppgave5.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\bin\Debug\net7.0\Oppgave5.exe
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\bin\Debug\net7.0\Oppgave5.deps.json
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\bin\Debug\net7.0\Oppgave5.runtimeconfig.json
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\bin\Debug\net7.0\Oppgave5.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\bin\Debug\net7.0\Oppgave5.pdb
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.csproj.AssemblyReference.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.AssemblyInfoInputs.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.AssemblyInfo.cs
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.csproj.CoreCompileInputs.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\refint\Oppgave5.dll
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.pdb
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\Oppgave5.genruntimeconfig.cache
+C:\Users\Salar\Downloads\Emne 4 OOP Eksamen 2023\Oppgavene\Oppgave5\obj\Debug\net7.0\ref\Oppgave5.dll
